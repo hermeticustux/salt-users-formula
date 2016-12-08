@@ -5,14 +5,19 @@ users
 Formula to configure users via pillar.
 
 
-##note
+##notes
 
 v1
 
+##contents
+
+- init.sls  
+- userlist.yaml
+- /files/sudoers
+- pillar.example
+
 Available states
 ================
-
-##contents
 
 ``users``
 ---------
