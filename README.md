@@ -5,15 +5,14 @@ users
 Formula to configure users via pillar.
 
 
-.. note::
+##note
 
 v1
 
 Available states
 ================
 
-.. contents::
-    :local:
+##contents
 
 ``users``
 ---------
