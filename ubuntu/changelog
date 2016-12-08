@@ -1,5 +1,5 @@
-apache-formula-salt (0.0.1) trusty; urgency=medium
+users-formula-salt (0.0.1) trusty; urgency=medium
 
   + Initial release
 
- -- Ashlin Jones <ajones@crowdrise.com> Thu Dec  8 02:53:51 EST 2016
+ -- Ashlin Jones Thu Dec  8 02:53:51 EST 2016

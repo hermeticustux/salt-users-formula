@@ -1,5 +1,5 @@
 Source: users-formula-salt
-Maintainer: Ashlin Jones <ajones@crowdrise.com>
+Maintainer: Ashlin Jones
 Section: admin
 Priority: optional
 Build-Depends: debhelper (>= 9)
@@ -9,5 +9,5 @@ Vcs-Git: https://github.com/hermeticustuxmegistus/salt-users-formula
 Package: users-formula-salt
 Architecture: all
 Depends: ${misc:Depends}, salt-master, reclass
-Description: Salt salt users formula
+Description: SaltStack Salt salt salt-formula users formula
  Manage userse on *nix servers
