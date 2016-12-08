@@ -1,0 +1,17 @@
+{% load_yaml as usermap %}
+
+user1: 
+  - fullname: John Doe
+  - uid: 1100
+  - ssh-pub-key: True
+  - ssh-priv-key: False
+  - homedir-custom: False
+
+user2: 
+  - fullname: Jane Doe
+  - uid: 1101
+  - ssh-pub-key: True
+  - ssh-priv-key: False
+  - homedir-custom: False
+
+{% endload %}

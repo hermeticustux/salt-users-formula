@@ -1,0 +1,23 @@
+users:
+
+  - name: john
+    fullname: John Doe
+    email: john.doe@company.com
+    uid: 1100
+    gid: 1100
+    shell: /bin/bash
+    groups:
+      - root
+    shadow: $6$5H0QpwprRi...
+    authkey: ssh-rsa ...
+
+  - name: jane
+    fullname: Jane Doe
+    email: jane.doe@company.com
+    uid: 1101
+    gid: 1101
+    shell: /bin/bash
+    groups:
+      - root
+    shadow: $6$5H0QpwprRi...
+    authkey: ssh-rsa ...
